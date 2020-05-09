@@ -57,7 +57,7 @@
       <workItem from="1588872486143" duration="4053000" />
       <workItem from="1588890755777" duration="2007000" />
       <workItem from="1588954680753" duration="8822000" />
-      <workItem from="1589041383635" duration="3405000" />
+      <workItem from="1589041383635" duration="5507000" />
     </task>
     <task id="LOCAL-00001" summary="Setup project">
       <created>1588876873487</created>
@@ -101,6 +101,10 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="275" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728@0.40.1366.728" timestamp="1588872536293" />
+    <state x="0" y="40" key="CommitChangelistDialog2" timestamp="1589046722305">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="0" y="40" key="CommitChangelistDialog2/0.40.1366.728@0.40.1366.728" timestamp="1589046722305" />
     <state x="664" y="186" key="FileChooserDialogImpl" timestamp="1588873952095">
       <screen x="0" y="40" width="1366" height="728" />
     </state>

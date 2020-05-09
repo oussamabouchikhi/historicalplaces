@@ -1,8 +1,14 @@
 from  django.conf.urls import url, include
-from places.views import PlacesList, RatesList
+from rest_framework import routers
+
+from places.views import PlacesViewSet, RatesViewSet
+
+router = routers.DefaultRouter()
+router.register(r'places', PlacesViewSet)
+router.register(r'rates', RatesViewSet)
 
 urlpatterns = [
-    url(r'^places/$', PlacesList.as_view(), name='places_list'),
-    url(r'^rates/$', RatesList.as_view(), name='rates_list'),
-    url(r'^place/(?P<pk>[0-9]+)/$', RatesList.as_view(), name='place_detail'),
+
+    url(r'^', include(router.urls)),
+
 ]
