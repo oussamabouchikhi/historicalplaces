@@ -42,10 +42,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../historical_places_env" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +58,9 @@
       <workItem from="1588872486143" duration="4053000" />
       <workItem from="1588890755777" duration="2007000" />
       <workItem from="1588954680753" duration="8822000" />
-      <workItem from="1589041383635" duration="5898000" />
+      <workItem from="1589041383635" duration="7549000" />
+      <workItem from="1589060915219" duration="1768000" />
+      <workItem from="1589129110393" duration="1614000" />
     </task>
     <task id="LOCAL-00001" summary="Setup project">
       <created>1588876873487</created>
@@ -105,14 +108,14 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="0" y="40" key="CommitChangelistDialog2/0.40.1366.728@0.40.1366.728" timestamp="1589046722305" />
-    <state x="664" y="186" key="FileChooserDialogImpl" timestamp="1588873952095">
+    <state x="664" y="186" key="FileChooserDialogImpl" timestamp="1589129751404">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="664" y="186" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1588873952095" />
-    <state x="184" y="49" key="SettingsEditor" timestamp="1589042465523">
+    <state x="664" y="186" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1589129751404" />
+    <state x="184" y="49" key="SettingsEditor" timestamp="1589129791574">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="184" y="49" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1589042465523" />
+    <state x="184" y="49" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1589129791574" />
     <state x="482" y="138" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1588956158456">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
