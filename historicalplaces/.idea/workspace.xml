@@ -61,7 +61,8 @@
       <workItem from="1589041383635" duration="7549000" />
       <workItem from="1589060915219" duration="1768000" />
       <workItem from="1589129110393" duration="5360000" />
-      <workItem from="1589214935421" duration="1143000" />
+      <workItem from="1589214935421" duration="2593000" />
+      <workItem from="1589299973065" duration="1016000" />
     </task>
     <task id="LOCAL-00001" summary="Setup project">
       <created>1588876873487</created>
@@ -121,5 +122,9 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="482" y="138" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.40.1366.728@0.40.1366.728" timestamp="1588956158456" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1589300426371">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1589300426371" />
   </component>
 </project>
